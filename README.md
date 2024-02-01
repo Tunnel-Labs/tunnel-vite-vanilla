@@ -1,1 +1,1 @@
-# tunnel-vite-vanilla
+This was a Vite + Vanilla project bootstrapped with create vite and modified to use Tunnel, enabling collaboration and review tools in development, previews, and production.
